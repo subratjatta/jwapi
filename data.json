@@ -1,0 +1,24 @@
+{
+    "data" : [
+        {
+            "id" : 1,
+            "channel_name" : "astro",
+            "link" : "https://bpcdn.dialog.lk/bpk-tv/Ch065/output/index.mpd",
+            "key" : "63a7fe4e7899ba2bc5bbd4307398f3ff",
+            "kid" : "abfc480ae7920a3ebd9e99e7b9a0d3e2"
+        },
+        {
+            "id" : 2,
+            "channel_name" : "astro_ott",
+            "link" : "https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd",
+            "key" : "03c2e0af2f8159f9f0ce9b5dbc865f10",
+            "kid" : "cd84ed136b0cc71f8ab8cd4d4f6a2e4c"
+        },
+
+        {
+            "id" : "jio",
+            "channel_name" : "astro_ott",
+            "link" : "https://prod-ent-live-fa.jiocinema.com/out/v1/0032a90f57224764b183281b210ff4df/master.m3u8"
+        }
+    ]
+}
